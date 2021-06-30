@@ -20,6 +20,7 @@
 ## 🎉 Things I'd learnt
 
 -How to set background
+
 -How to make front suitable for variable devices
 
 
@@ -29,7 +30,7 @@
 
 ## 💥 Sources
 
-- https://fonts.google.com/specimen/Merriweather?sort=popularity
-- https://www.heropatterns.com/
-https://fontawesome.com/
-- [Pixel Frog](https://pixelfrog-store.itch.io/pixel-adventure-2)
+- [Free fonts](https://fonts.google.com/specimen/Merriweather?sort=popularity)
+- [Backgrounds](https://www.heropatterns.com/)
+- [Icons](https://fontawesome.com/)
+
