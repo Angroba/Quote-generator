@@ -19,9 +19,9 @@
 
 ## 🎉 Things I'd learnt
 
--How to set background
+- How to set background
 
--How to make front suitable for variable devices
+- How to make front suitable for variable devices
 
 
 ## 🎙 Comments
