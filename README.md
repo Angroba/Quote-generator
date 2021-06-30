@@ -2,9 +2,9 @@
 
 ## ☄️ Overview
 
-- This is my project coded in **JavaScript, CSS and HTML.
+- This is my project coded in **JavaScript, CSS and HTML.**
 
-- The idea was **to set myself a challenge to learn basic of JS, CSS and HTML in a streak of projects** . This is my first project in this seria.
+- The idea was **to set myself a challenge to learn basics of JS, CSS and HTML in a streak of projects** . This is my first project in this seria.
 
 ## 🛠️ Technologies and Tools
 
